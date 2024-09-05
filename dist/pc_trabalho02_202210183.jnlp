@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="pc_trabalho02_202210183.jnlp">
+  <information>
+    <title>pc_trabalho02_202210183</title>
+    <vendor>pedro</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="pc_trabalho02_202210183.jar" size="1561114" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="Principal"  name="pc_trabalho02_202210183" />
+  <update check="always"/>
+</jnlp>
